@@ -3,7 +3,7 @@ baseurl: /agency/
 
 # Site settings
 title: RNA Intelligence
-email: your-email@domain.com
+email: lulab1@tsinghua.edu.cn
 description: "AI driven RNA therapy."
 
 
@@ -14,7 +14,7 @@ people:
   position: Lead Science
   social:
     - title: github
-      url: www.github.com/lulab
+      url: http://github.com/lulab
     - title: facebook
       url: #
     - title: stack-overflow
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Wei Huang
   pic: 3
   position: Lead Technology
   social:
@@ -45,15 +45,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/lulab
 
 # Postal address (add as many lines as necessary)
 address:
