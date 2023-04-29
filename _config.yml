@@ -9,18 +9,18 @@ description: "AI driven RNA therapy."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Zhi John Lu
   pic: 1
-  position: Lead Designer
+  position: Lead Science
   social:
-    - title: twitter
-      url: #
+    - title: github
+      url: www.github.com/lulab
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Junhui Bu
   pic: 2
   position: Lead Marketer
   social:
@@ -33,7 +33,7 @@ people:
 
 - name: Diana Petersen
   pic: 3
-  position: Lead Developer
+  position: Lead Technology
   social:
     - title: twitter
       url: #
