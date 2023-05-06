@@ -1,5 +1,5 @@
-url: http://www.RNAintelligence.com
-baseurl: /
+#url: http://www.RNAintelligence.com
+#baseurl: /
 
 # Site settings
 title: RNA Intelligence
@@ -33,7 +33,7 @@ people:
 
 - name: Wei Huang
   pic: 3
-  position: Lead Technology
+  position: Lead Drug Screening & Testing
   social:
     - title: twitter
       url: #
@@ -41,6 +41,19 @@ people:
       url: #
     - title: google-plus
       url: #
+
+
+- name: Xiaofan Liu
+  pic: 4
+  position: Lead AI
+  social:
+    - title: github
+      url: http://github.com/lulab
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+      
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
