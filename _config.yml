@@ -20,20 +20,22 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Junhui Bu
-  pic: 2
-  position: Lead Marketing
+
+- name: Xiaofan Liu
+  pic: 6
+  position: Lead Bioinfo. & AI
   social:
-    - title: twitter
-      url: #
+    - title: github
+      url: http://github.com/lulab
     - title: facebook
       url: #
-    - title: linkedin
+    - title: stack-overflow
       url: #
 
-- name: Wei Huang
-  pic: 3
-  position: Lead Drug Screening & Testing
+
+- name: Hongli Ma
+  pic: 4
+  position: Lead Drug Design
   social:
     - title: twitter
       url: #
@@ -43,16 +45,6 @@ people:
       url: #
 
 
-- name: Xiaofan Liu
-  pic: 4
-  position: Lead Bioinfo. & AI
-  social:
-    - title: github
-      url: http://github.com/lulab
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
   
 
