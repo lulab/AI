@@ -1,6 +1,13 @@
-url: http://ai.ncrnalab.org
-baseurl: /
+##################
+# ---- parameters for deploy prodcution
+####must  run this option: JEKYLL_ENV=production bundle exec jekyll build --config _config2.yml 
+##################
+repository: lulab/RNA_Intelligence
+url: "http://lulab.life.tsinghua.edu.cn"
+baseurl: /ai/
 
+
+#########the following are the same ##########
 # Site settings
 title: RNA Intelligence
 email: lulab1@tsinghua.edu.cn
