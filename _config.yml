@@ -10,7 +10,7 @@ description: "AI driven RNA therapy."
 # Team names, titles and social links
 people:
 - name: Zhi John Lu
-  pic: 1
+  pic: 2
   position: Lead Science
   social:
     - title: github
@@ -21,21 +21,21 @@ people:
       url: #
 
 
-- name: Xiaofan Liu
-  pic: 6
-  position: Lead Bioinfo. & AI
+- name: Yucheng Yang
+  pic: 3
+  position: Lead Bioinformatics
   social:
     - title: github
-      url: http://github.com/lulab
+      url: #
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
 
 
-- name: Hongli Ma
-  pic: 4
-  position: Lead Drug Design
+- name: Huiyi Li
+  pic: 6
+  position:  Lab Management
   social:
     - title: twitter
       url: #
